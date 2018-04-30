@@ -1,0 +1,16 @@
+.header > p {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.header > .navigation {
+  display: flex;
+}
+
+.header > .navigation > .section {
+  display: inline;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-evenly;
+}
