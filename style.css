@@ -19,3 +19,12 @@ img {
   width: 500px;
   height: 300px;
 }
+
+body {
+	color: #888;
+}
+
+h1,
+.header {
+  color: #333;
+}
