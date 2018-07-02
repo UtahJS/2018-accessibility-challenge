@@ -1,0 +1,40 @@
+{
+  "projectName": "2018-accessibility-challenge",
+  "projectOwner": "UtahJS",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SurlyMae",
+      "name": "Ashly LaMarr",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17370135?v=4",
+      "profile": "http://ashlylamarr.me/about/",
+      "contributions": [
+        "code",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "metasean",
+      "name": "MetaSean",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7552754?v=4",
+      "profile": "https://metasean.info",
+      "contributions": [
+        "code",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "review"
+      ]
+    }
+  ]
+}

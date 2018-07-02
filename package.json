@@ -4,7 +4,8 @@
   "description": "A site to demonstrate and document ways to improve website accessibility.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "add-contributor": "all-contributors add",
+    "generate-contributors": "all-contributors generate"
   },
   "keywords": [
     "accessibility",
@@ -12,5 +13,16 @@
     "UtahJS"
   ],
   "author": "metasean",
-  "license": "GPL-3.0+"
+  "license": "GPL-3.0+",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utahjs/2018-accessibility-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utahjs/2018-accessibility-challenge/issues"
+  },
+  "homepage": "https://github.com/utahjs/2018-accessibility-challenge#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^5.2.1"
+  }
 }
